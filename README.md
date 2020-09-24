@@ -1,4 +1,4 @@
-https://lukeyreyno.github.io/lukeyreyno/
+https://lukeyreyno.github.io/lucasreyna-website/
 
 <h1>Hello! My name is Lucas Reyna.</h1>
 
