@@ -1,5 +1,4 @@
-https://lukeyreyno.github.io/lucasreyna-website/
-
+https://lukeyreyno.github.io/lucas-website/
 <h1>Hello! My name is Lucas Reyna.</h1>
 
 I am a Computer Engineering Student at Cal Poly University
