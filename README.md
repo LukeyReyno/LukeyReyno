@@ -5,7 +5,7 @@ I am a Computer Engineering Student at Cal Poly University
 
 - 🔭 I’m currently working on my personal Discord Bot
       https://top.gg/bot/223959196238872577
-- 🌱 I’m currently learning Project Based Object Oriented Programming
+- 🌱 I’m currently taking several engineering courses
 - 📫 How to reach me: lreyna@calpoly.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I speak French
