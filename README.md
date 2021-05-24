@@ -21,5 +21,4 @@ Some of my interests include:
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LukeyReyno)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeyReyno&layout=compact&hide=shaderlab,hlsl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=161242436146823169)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeyReyno&layout=compact&hide=shaderlab,hlsl&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
