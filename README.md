@@ -3,7 +3,7 @@ https://lukeyreyno.github.io/lucas-website/
 
 I am a Computer Engineering Student at Cal Poly University
 
-- 🔭 I’m currently working on my personal Discord Bot
+- 🔭 I’m currently working on my officially verified Discord Bot
       https://top.gg/bot/223959196238872577
 - 🌱 I’m currently taking several engineering courses
 - 📫 How to reach me: lreyna@calpoly.edu
@@ -13,7 +13,7 @@ I am a Computer Engineering Student at Cal Poly University
 
 Some of my interests include:
 - 🤖Robotics
-- Coding in 🐍Python, 🕹️SystemVerilog, and ☕Java
+- Coding in 🐍Python, C++, and ☕Java
 - 💻Amateur Web Design
 - 💡Small Electronic Projects
 - 🖥️PC Hardware and Computer Games
