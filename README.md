@@ -3,20 +3,21 @@ https://lukeyreyno.github.io/lucas-website/
 
 I am a Computer Engineering Student at Cal Poly University
 
-- 🔭 I’m currently working on my officially verified Discord Bot
+- 🔭 I’m actively working on my officially verified Discord Bot
       https://top.gg/bot/223959196238872577
-- 🌱 I’m currently taking several engineering courses
+- 🌱 I’m currently taking several computer engineering courses
 - 📫 How to reach me: lreyna@calpoly.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I speak French
-- 👶 I'm still fairly new to GitHub and projects, but I hope to improve over time
 
 Some of my interests include:
 - 🤖Robotics
-- Coding in 🐍Python, C++, and ☕Java
+- Programming in 🐍Python, C, and ☕Java
+- Unity and C# game development
 - 💻Amateur Web Design
 - 💡Small Electronic Projects
 - 🖥️PC Hardware and Computer Games
+- 🚶‍♂️Walking for fun/exercise
 
 
 
