@@ -22,4 +22,6 @@ Some of my interests include:
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LukeyReyno&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeyReyno&layout=compact&hide=shaderlab,hlsl&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LukeyReyno&custom_title=Lucas%20Reyna%27s%20Wakatime%20Stats&langs_count=12&layout=compact&hide=Text,Markdown,Other,Git%20Config,INI,SystemVerilog,Groovy,XML,CMake)](https://github.com/anuraghazra/github-readme-stats)
